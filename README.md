@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @johnpaulhook
 - 👀 I’m interested in space and science
 - 🌱 I’m currently learning how to code games
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me johnpaul82413@gmail.com
-- 😄 Pronouns: he, him
 - ⚡ Fun fact: i have made 5 games
 
 <!---
